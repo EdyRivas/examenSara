@@ -1,0 +1,14 @@
+div {
+    margin: 1%;
+    width: 100%;
+    column-count: 2;
+    column-gap: 10rem;
+    text-align: center;
+}
+  
+.lista-nombre, .lista-num {
+    padding: 1%;
+    margin: auto;
+    font-size: small;
+}
+
